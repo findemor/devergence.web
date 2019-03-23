@@ -1,19 +1,8 @@
 ---
-id: 911
-title: Series.ly android
-date: 2013-09-26T20:47:22+00:00
-author: devergence
 layout: post
-guid: http://devergence.azurewebsites.net/?p=911
-permalink: /developments/series-ly-android/
+title: Series.ly Android
+description: Series.ly Android es la mejor forma de acceder a tu cuenta de Series.ly
 image: /wp-content/uploads/2013/09/icono_512-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - utilities
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="http://series-ly-android.es/#download" target="_blank" rel="nofollow">Download</a>

@@ -1,19 +1,8 @@
 ---
-id: 821
-title: Share your dreams
-date: 2013-09-26T20:08:39+00:00
-author: devergence
 layout: post
-guid: http://devergence.azurewebsites.net/?p=821
-permalink: /developments/share-your-dreams/
-image: /wp-content/uploads/2013/09/shareyourdreams1-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - utilities
+title: Share your dreams
+description: Share your dreams es la aplicación que te permite guardar tus sueños de manera geolocalizada
+image: wp-content/uploads/2013/09/shareyourdreams1-150x150.png
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="https://market.android.com/details?id=com.devergence.shareyourdreams" target="_blank" rel="nofollow">Download</a>

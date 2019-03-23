@@ -1,10 +1,9 @@
 ---
-id: 1042
+layout: post
 title: disclaimer-mazemaster
-date: 2013-10-24T17:47:52+00:00
-author: devergence
-layout: page
-guid: http://devergence.com/?page_id=1042
+description: disclaimer-mazemaster
+image:
+permalink: /disclaimer-mazemaster/
 ---
 ## TÉRMINOS, CONDICIONES DE USO, Y POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN MazeMaster Skully SOBRE Android
 

@@ -1,19 +1,8 @@
 ---
-id: 171
-title: fansapp Gatitos
-date: 2013-02-07T19:55:29+00:00
-author: devergence
 layout: post
-guid: http://devergence.azurewebsites.net/?p=171
-permalink: /developments/fansapp-gatitos/
-image: /wp-content/uploads/2013/02/logodegrad5121-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - fansapp
+title: fansapp Gatitos
+description: ¿Te gustan los gatitos?
+image: wp-content/uploads/2013/02/logodegrad5121-150x150.png
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="https://play.google.com/store/apps/details?id=com.devergence.fansapp.gatitos" target="_blank" rel="nofollow">Download</a>

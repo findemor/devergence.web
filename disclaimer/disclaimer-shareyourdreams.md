@@ -1,10 +1,9 @@
 ---
-id: 861
+layout: post
 title: disclaimer-shareyourdreams
-date: 2013-09-26T20:12:26+00:00
-author: devergence
-layout: page
-guid: http://devergence.azurewebsites.net/?page_id=861
+description: disclaimer-shareyourdreams
+image:
+permalink: /disclaimer-shareyourdreams/
 ---
 ## TÉRMINOS, CONDICIONES DE USO, Y POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN share your dreams SOBRE Android
 

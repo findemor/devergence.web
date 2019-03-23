@@ -1,19 +1,8 @@
 ---
-id: 1021
-title: beachball
-date: 2013-09-29T20:00:53+00:00
-author: devergence
 layout: post
-guid: http://devergence.com/?p=1021
-permalink: /developments/beachball/
-image: /wp-content/uploads/2013/09/logobeachball1-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - juego
+title: beachball
+description: Juego de voleibol
+image: wp-content/uploads/2013/09/logobeachball1-150x150.png
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="https://play.google.com/store/apps/details?id=com.devergence.beachball" target="_blank" rel="nofollow">Download</a>
@@ -39,5 +28,3 @@ En Beachball, podrás jugar partidos de voleibol, tenis, y otras pantallas espec
   * Descubre el escenario secreto.
 
 **Si quieres una versión más sencilla**, prueba a descargar &#8220;[Beachball For Kids](http://devergence.com/developments/beachball-for-kids/ "beachball for kids")&#8220;, donde lo importante es la diversión.
-
-\[wppa type=&#8221;slide&#8221; album=&#8221;1&#8243;\]\[/wppa\]

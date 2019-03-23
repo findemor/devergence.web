@@ -1,20 +1,8 @@
 ---
-id: 1018
-title: beachball for kids
-date: 2013-09-29T19:55:49+00:00
-author: devergence
 layout: post
-guid: http://devergence.com/?p=1018
-permalink: /developments/beachball-for-kids/
-image: /wp-content/uploads/2013/09/logo1-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - juego
-  - niños
+title: Beachball for kids
+description: Juego al voleibol con tus hijos
+image: wp-content/uploads/2013/09/logo1-150x150.png
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="https://play.google.com/store/apps/details?id=com.devergence.beachballforkids" target="_blank" rel="nofollow">Download</a>

@@ -1,4 +1,10 @@
 ---
+layout: post
+title: fansapp Gatitos
+description: ¿Te gustan los gatitos?
+image: /wp-content/uploads/2013/09/distineo1-150x150.jpg
+---
+---
 id: 971
 title: distineo mjgarcia
 date: 2013-09-26T20:54:35+00:00

@@ -1,10 +1,9 @@
 ---
-id: 1067
+layout: post
 title: disclaimer-beachball
-date: 2017-11-01T19:59:08+00:00
-author: devergence
-layout: page
-guid: http://devergence.com/?page_id=1067
+description: disclaimer-beachball
+image:
+permalink: /disclaimer-beachball/
 ---
 ## TÉRMINOS, CONDICIONES DE USO, Y POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN Beachball SOBRE Android
 

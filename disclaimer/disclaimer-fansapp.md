@@ -1,10 +1,9 @@
 ---
-id: 661
+layout: post
 title: disclaimer-fansapp
-date: 2013-09-26T19:55:39+00:00
-author: devergence
-layout: page
-guid: http://devergence.azurewebsites.net/?page_id=661
+description: disclaimer-fansapp
+image:
+permalink: /disclaimer-fansapp/
 ---
 ## TÉRMINOS, CONDICIONES DE USO, Y POLÍTICA DE PRIVACIDAD DE LA APLICACIÓN fansapp SOBRE Android
 

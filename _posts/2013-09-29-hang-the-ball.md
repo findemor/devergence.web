@@ -1,20 +1,8 @@
 ---
-id: 1014
-title: Hang The Ball
-date: 2013-09-29T19:50:56+00:00
-author: devergence
 layout: post
-guid: http://devergence.com/?p=1014
-permalink: /developments/hang-the-ball/
-image: /wp-content/uploads/2013/09/icono1-150x150.png
-categories:
-  - developments
-  - mobile apps
-tags:
-  - android
-  - app
-  - juego
-  - niños
+title: Hang The Ball
+description: ¿Cuánto tiempo puedes mantener la pelota en el aire?
+image: wp-content/uploads/2013/09/icono1-150x150.png
 ---
 <div class="postlinks">
   <a class="downloadgoogle" href="https://play.google.com/store/apps/details?id=com.devergence.hangtheball" target="_blank" rel="nofollow">Download</a>
