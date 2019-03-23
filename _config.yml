@@ -2,7 +2,7 @@
 title: devergence
 subtitle: estudio independiente de desarrollo
 email: contacto@devergence.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Una marca bajo la que materializar las ideas fascinantes<br /> que nos motivaron a dedicarnos a este oficio.
 baseurl: "/devergence.web" # the subpath of your site, e.g. /blog
 url: http://www.devergence.com # the base hostname & protocol for your site
 author:
@@ -14,20 +14,20 @@ country: España
 phone:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 2
 
 # social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/devergence_std
 
 # build settings
 markdown: kramdown
